@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, Princeton University, 2027 (expected)
+* B.A. in Economics and Quantitative Social Science, Dartmouth College, 2019
+  * High Honors in Economics
+  * Economics tracks completed: Labor, Development, Public, Advanced Theory
+  * Academic Achievement Award in Economics
+  * Mellon Mays Undergraduate Fellowship Associate Fellow
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2022: Business Analytics Manager; Sr. Business Analyst @ Koalafi
+  * Monitored credit and risk behavior
+  * Analyzed impacts of business strategy changes
+  * Recommended new strategies and predicted sizes and impacts
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2021: Business Analyst; Sr. Business Analyst @ Capital One
+  * Developed data-driven fraud prevention strategies
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -42,18 +43,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2023-Present: Manager, DBar @ Princeton University
+* 2019-Present: Board Member, Dartmouth Class Executive Council for the Class of 2019
+* 2021-2022: Board Member, Virginia Squash
+* 2018-2019: Treasurer, Alpha Chi Alpha Fraternity at Dartmouth College
+* 2018-2019; Summer 2017: Treasurer, Interfraternity Council at Dartmouth College
